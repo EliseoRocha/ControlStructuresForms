@@ -1,0 +1,10 @@
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\bin\Debug\ControlStructuresForms.exe.config
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\bin\Debug\ControlStructuresForms.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\bin\Debug\ControlStructuresForms.pdb
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\obj\Debug\ControlStructuresForms.csprojAssemblyReference.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\obj\Debug\ControlStructuresForms.Form1.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\obj\Debug\ControlStructuresForms.Properties.Resources.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\obj\Debug\ControlStructuresForms.csproj.GenerateResource.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\obj\Debug\ControlStructuresForms.csproj.CoreCompileInputs.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\obj\Debug\ControlStructuresForms.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ControlStructuresForms\ControlStructuresForms\obj\Debug\ControlStructuresForms.pdb
